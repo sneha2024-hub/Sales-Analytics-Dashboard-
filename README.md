@@ -1,18 +1,22 @@
 # Global Retail Sales Analytics Dashboard
 
-## Tools Used
+## 📊 Project Overview
+This project analyzes retail sales data using PostgreSQL and Power BI to generate business insights.
+
+## 🛠 Tools Used
 - PostgreSQL
 - Power BI
+- DAX
 
-## Description
-This project analyzes retail sales data to identify key business insights using SQL and Power BI.
-
-## Key Features
+## 📈 Features
+- KPI metrics: Total Revenue, Orders, Quantity
 - Interactive dashboard with slicers
-- Revenue, Orders, Quantity KPIs
 - Customer, product, and country analysis
 
-## Insights
-- Top customers contribute most revenue
+## 💡 Key Insights
+- Top customers contribute most of the revenue
 - Sales vary across regions
 - Certain products dominate sales
+
+## 📸 Dashboard Preview
+![Dashboard](dashboard.png)
