@@ -3,6 +3,15 @@
 ## 📊 Project Overview
 This project analyzes retail sales data using PostgreSQL and Power BI to generate business insights.
 
+## 🎯 Objective
+To analyze retail sales data and build an interactive dashboard for business decision-making.
+
+## 🚀 Skills Demonstrated
+- SQL (Joins, Aggregations)
+- Data Modeling
+- Data Visualization
+- Business Analysis
+  
 ## 🛠 Tools Used
 - PostgreSQL
 - Power BI
