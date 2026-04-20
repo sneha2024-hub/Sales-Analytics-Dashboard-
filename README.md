@@ -19,4 +19,4 @@ This project analyzes retail sales data using PostgreSQL and Power BI to generat
 - Certain products dominate sales
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Sales-Analytics-Dashboard.png)
